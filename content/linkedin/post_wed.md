@@ -9,5 +9,5 @@
 7) Low-bandwidth accessibility
 
 Download the 1-pager: {{PDF Link}}
-Or book a 25-min micro-audit: {{CalLink}}
+Or book a 25-min micro-audit: https://cal.com/karthikshetty/cultural-bias-assessment-25-min
 #AI #QA #Localization

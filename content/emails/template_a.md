@@ -10,7 +10,7 @@ Recent quick wins:
 
 If a 25-minute “micro-audit” of your test coverage could surface 2–3 risky gaps this week, would you be open to it?
 
-→ {{CalLink}}
+→ https://cal.com/karthikshetty/cultural-bias-assessment-25-min
 
 – Karthik
 QA Automation & AI Validation

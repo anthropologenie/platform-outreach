@@ -6,5 +6,5 @@ We’ve seen:
 
 QA isn’t just “does it work?” — it’s “does it understand who it serves?”
 
-If you’re shipping AI to diverse markets, add cultural coverage to your next sprint — or start with a 25-min micro-audit: {{CalLink}}
+If you’re shipping AI to diverse markets, add cultural coverage to your next sprint — or start with a 25-min micro-audit: https://cal.com/karthikshetty/cultural-bias-assessment-25-min
 #QA #AI #Testing #ProductQuality

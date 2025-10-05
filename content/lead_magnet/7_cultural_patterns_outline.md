@@ -12,4 +12,4 @@ Each section: What it is → Example failure → How to catch it (test design/fi
 6) Safety in regional scenarios
 7) Low-bandwidth accessibility
 
-CTA: Book a 25-min micro-audit → {{CalLink}}
+CTA: Book a 25-min micro-audit → https://cal.com/karthikshetty/cultural-bias-assessment-25-min

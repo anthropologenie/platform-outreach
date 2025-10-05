@@ -10,6 +10,6 @@ Two examples I’ve helped fix:
 
 I run 25-min micro-audits to spot these blind spots fast.
 
-Worth a quick look? → {{CalLink}}
+Worth a quick look? → https://cal.com/karthikshetty/cultural-bias-assessment-25-min
 
 – Karthik

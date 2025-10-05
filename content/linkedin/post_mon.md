@@ -8,5 +8,5 @@ A chatbot passed global safety evals but failed when asked local-context questio
 
 Both were preventable with better test design.
 
-Book a 25-min micro-audit: {{CalLink}}
+Book a 25-min micro-audit: https://cal.com/karthikshetty/cultural-bias-assessment-25-min
 #AItesting #QualityEngineering #Localization #EthicalAI
